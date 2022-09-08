@@ -1,0 +1,1 @@
+# Bert_texts_similarity_japanese
